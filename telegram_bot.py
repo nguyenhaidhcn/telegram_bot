@@ -4,9 +4,9 @@ import re
 import requests
 
 #token of bot
-TOKEN = "525968331:AAHjiranH89hLS60L02FMW7wOaWB0gVjiIw"
+TOKEN = "525968331:AAHjiranH89hLS60L7wOaWB0gVjiIw"
 #id of group
-CHAT_ID = "-310232947"
+CHAT_ID = "-31023294732"
 #api url
 URL = "https://api.telegram.org/bot{}/".format(TOKEN)
 
