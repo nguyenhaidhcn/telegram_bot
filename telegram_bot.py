@@ -11,7 +11,7 @@ CHAT_ID = "-310232947"
 URL = "https://api.telegram.org/bot{}/".format(TOKEN)
 
 #add more process name here
-PROCESS_NAMES=["pycharm", "snap_icdx"];
+PROCESS_NAMES=["pycharm", "test"];
 PROCESS_PATH=["/","/"];
 
 
